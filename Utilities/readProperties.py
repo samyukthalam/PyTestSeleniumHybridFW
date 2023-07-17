@@ -10,18 +10,18 @@ config.read(configIniFilePath)
 class ReadConfigFile:
 
     @staticmethod
-    def getApplicationURL():
+    def getApplicationURL(section):
         print("Config file path is " + configIniFilePath)
         print(config.sections())
-        url = config.get("app url section", "appUrl")
+        url = config.get(section, "appUrl")
         return url
 
     @staticmethod
-    def getUserName():
-        username = config.get("app login section", "userName")
+    def getUserName(section):
+        username = config.get(section, "userName")
         return username
 
     @staticmethod
-    def getAPassword():
-        password = config.get("app login section", "password")
+    def getAPassword(section):
+        password = config.get(section, "password")
         return password

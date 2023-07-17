@@ -1,66 +1,106 @@
-2023-07-08 22:39:49,294 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
-2023-07-08 22:39:50,735 - root - INFO - test_login_page : 20 - Verifying home page title
-2023-07-08 22:39:50,740 - root - INFO - test_login_page : 23 - Home page title test is passed
-2023-07-08 22:39:52,282 - root - INFO - test_login_page : 33 - Executing the testtest_login
-2023-07-08 22:39:54,771 - root - INFO - test_login_page : 40 - Verifying login functionality
-2023-07-08 22:39:54,775 - root - INFO - test_login_page : 43 - Login test is passed
-2023-07-08 22:41:48,162 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
-2023-07-08 22:41:49,829 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
-2023-07-08 22:41:49,833 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
-2023-07-08 22:41:51,602 - root - INFO - test_login_page : 33 - Executing the testtest_login
-2023-07-08 22:41:53,722 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
-2023-07-08 22:41:53,726 - root - INFO - test_login_page : 43 - Login test is passed
-2023-07-08 22:45:59,756 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
-2023-07-08 22:46:01,050 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
-2023-07-08 22:46:01,055 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
-2023-07-08 22:46:02,830 - root - INFO - test_login_page : 33 - Executing the testtest_login
-2023-07-08 22:46:04,869 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
-2023-07-08 22:46:04,872 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
-2023-07-08 22:56:38,141 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
-2023-07-08 22:56:39,531 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
-2023-07-08 22:56:39,534 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
-2023-07-08 22:56:41,283 - root - INFO - test_login_page : 33 - Executing the testtest_login
-2023-07-08 22:56:43,370 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
-2023-07-08 22:56:43,373 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
-2023-07-08 23:09:01,601 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
-2023-07-08 23:09:02,843 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
-2023-07-08 23:09:02,847 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
-2023-07-08 23:09:04,702 - root - INFO - test_login_page : 33 - Executing the testtest_login
-2023-07-08 23:09:06,596 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
-2023-07-08 23:09:06,598 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
-2023-07-08 23:16:58,297 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
-2023-07-08 23:16:59,860 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
-2023-07-08 23:16:59,863 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
-2023-07-08 23:17:02,487 - root - INFO - test_login_page : 33 - Executing the testtest_login
-2023-07-08 23:17:03,883 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
-2023-07-08 23:17:03,884 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
-2023-07-08 23:21:18,284 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
-2023-07-08 23:21:18,287 - root - INFO - test_login_page : 33 - Executing the testtest_login
-2023-07-08 23:21:19,756 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
-2023-07-08 23:21:19,758 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
-2023-07-08 23:21:20,045 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
-2023-07-08 23:21:20,049 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
-2023-07-08 23:21:35,818 - root - INFO - test_login_page : 33 - Executing the testtest_login
-2023-07-08 23:21:35,821 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
-2023-07-08 23:21:37,093 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
-2023-07-08 23:21:37,096 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
-2023-07-08 23:21:37,667 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
-2023-07-08 23:21:37,669 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
-2023-07-08 23:36:03,348 - root - INFO - test_login_page : 33 - Executing the testtest_login
-2023-07-08 23:36:03,348 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
-2023-07-08 23:36:04,438 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
-2023-07-08 23:36:04,443 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
-2023-07-08 23:36:05,132 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
-2023-07-08 23:36:05,135 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
-2023-07-08 23:38:26,921 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
-2023-07-08 23:38:26,924 - root - INFO - test_login_page : 33 - Executing the testtest_login
-2023-07-08 23:38:28,289 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
-2023-07-08 23:38:28,291 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
-2023-07-08 23:38:28,542 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
-2023-07-08 23:38:28,544 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
-2023-07-09 00:07:24,463 - root - INFO - test_login_page : 32 - Executing the testtest_login
-2023-07-09 00:07:24,498 - root - INFO - test_login_page : 16 - Executing the testtest_page_title
-2023-07-09 00:07:26,566 - root - INFO - test_login_page : 19 - ****************** Verifying home page title **************
-2023-07-09 00:07:26,569 - root - INFO - test_login_page : 22 - *********** Home page title test is passed **************
-2023-07-09 00:07:27,021 - root - INFO - test_login_page : 39 - ************** Verifying login functionality *****************
-2023-07-09 00:07:27,022 - root - INFO - test_login_page : 42 - ************* Login test is passed ***************
+2023-07-15 12:48:05,084 - root - INFO - test_login_page : 16 - Executing the testtest_page_title
+2023-07-15 12:48:06,705 - root - INFO - test_login_page : 19 - ****************** Verifying home page title **************
+2023-07-15 12:48:06,713 - root - INFO - test_login_page : 22 - *********** Home page title test is passed **************
+2023-07-15 12:48:08,524 - root - INFO - test_login_page : 32 - Executing the testtest_login
+2023-07-15 12:48:11,829 - root - INFO - test_login_page : 39 - ************** Verifying login functionality *****************
+2023-07-15 12:48:11,833 - root - INFO - test_login_page : 42 - ************* Login test is passed ***************
+2023-07-15 13:44:33,269 - root - INFO - test_nopcommerce_login_page : 17 - Executing the testtest_login
+2023-07-15 13:44:35,910 - root - INFO - test_nopcommerce_login_page : 24 - ************** Verifying login functionality *****************
+2023-07-15 13:44:35,912 - root - INFO - test_nopcommerce_login_page : 27 - ************* Login test is passed ***************
+2023-07-15 14:38:24,113 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
+2023-07-15 14:38:25,750 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
+2023-07-15 14:38:25,753 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
+2023-07-15 14:38:27,551 - root - INFO - test_login_page : 33 - Executing the testtest_login
+2023-07-15 14:38:29,805 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
+2023-07-15 14:38:29,809 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
+2023-07-15 14:38:42,683 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
+2023-07-15 14:38:44,221 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
+2023-07-15 14:38:44,224 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
+2023-07-15 14:38:46,014 - root - INFO - test_login_page : 33 - Executing the testtest_login
+2023-07-15 14:38:46,967 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
+2023-07-15 14:39:30,869 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 14:39:35,511 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 14:39:35,515 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:06:42,316 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:06:44,418 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 15:06:44,422 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:06:53,864 - root - INFO - test_login_page : 18 - Executing the testtest_page_title
+2023-07-15 15:06:55,191 - root - INFO - test_login_page : 21 - ****************** Verifying home page title **************
+2023-07-15 15:06:55,196 - root - INFO - test_login_page : 24 - *********** Home page title test is passed **************
+2023-07-15 15:06:56,981 - root - INFO - test_login_page : 34 - Executing the testtest_login
+2023-07-15 15:06:59,984 - root - INFO - test_login_page : 41 - ************** Verifying login functionality *****************
+2023-07-15 15:06:59,988 - root - INFO - test_login_page : 44 - ************* Login test is passed ***************
+2023-07-15 15:18:47,586 - root - INFO - test_addCustomer : 16 - Executing the testtest_addNewCustomer
+2023-07-15 15:25:47,621 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:25:50,040 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 15:25:50,043 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:25:51,822 - root - INFO - test_addCustomer : 17 - Executing the testtest_addNewCustomer
+2023-07-15 15:25:52,568 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:26:26,588 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:26:28,211 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 15:26:28,217 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:26:29,931 - root - INFO - test_addCustomer : 17 - Executing the testtest_addNewCustomer
+2023-07-15 15:26:29,932 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:37:34,857 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:37:37,121 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 15:37:37,123 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:37:38,872 - root - INFO - test_addCustomer : 18 - Executing the testtest_addNewCustomer
+2023-07-15 15:40:11,979 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:40:14,546 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 15:40:14,550 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:40:16,242 - root - INFO - test_addCustomer : 18 - Executing the testtest_addNewCustomer
+2023-07-15 15:42:42,441 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:42:44,904 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 15:42:44,906 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:42:46,639 - root - INFO - test_addCustomer : 20 - Executing the testtest_addNewCustomer
+2023-07-15 15:43:22,523 - root - INFO - test_login_page : 18 - Executing the testtest_page_title
+2023-07-15 15:43:23,764 - root - INFO - test_login_page : 21 - ****************** Verifying home page title **************
+2023-07-15 15:43:23,767 - root - INFO - test_login_page : 24 - *********** Home page title test is passed **************
+2023-07-15 15:43:25,606 - root - INFO - test_login_page : 34 - Executing the testtest_login
+2023-07-15 15:43:27,027 - root - INFO - test_login_page : 41 - ************** Verifying login functionality *****************
+2023-07-15 15:43:27,030 - root - INFO - test_login_page : 44 - ************* Login test is passed ***************
+2023-07-15 15:45:50,807 - root - INFO - test_login_page : 18 - Executing the testtest_page_title
+2023-07-15 15:45:52,222 - root - INFO - test_login_page : 21 - ****************** Verifying home page title **************
+2023-07-15 15:45:52,225 - root - INFO - test_login_page : 24 - *********** Home page title test is passed **************
+2023-07-15 15:45:54,103 - root - INFO - test_login_page : 34 - Executing the testtest_login
+2023-07-15 15:45:55,513 - root - INFO - test_login_page : 41 - ************** Verifying login functionality *****************
+2023-07-15 15:45:55,517 - root - INFO - test_login_page : 44 - ************* Login test is passed ***************
+2023-07-15 15:46:22,600 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:46:24,872 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 15:46:24,875 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:46:26,631 - root - INFO - test_addCustomer : 20 - Executing the testtest_addNewCustomer
+2023-07-15 15:48:30,301 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:48:32,791 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 15:48:32,793 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:48:34,544 - root - INFO - test_addCustomer : 20 - Executing the testtest_addNewCustomer
+2023-07-15 15:51:12,394 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:51:14,955 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 15:51:14,958 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:51:16,710 - root - INFO - test_addCustomer : 20 - Executing the testtest_addNewCustomer
+2023-07-15 15:51:19,310 - root - INFO - test_addCustomer : 38 - ************** Testing Customer Label is failed *************
+2023-07-15 15:54:09,512 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:54:11,997 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 15:54:12,000 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:54:13,737 - root - INFO - test_addCustomer : 20 - Executing the testtest_addNewCustomer
+2023-07-15 15:55:17,439 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:55:19,354 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 15:55:19,356 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:55:21,061 - root - INFO - test_addCustomer : 20 - Executing the testtest_addNewCustomer
+2023-07-15 15:55:23,766 - root - INFO - test_addCustomer : 38 - ************** Testing Customer Label is failed *************
+2023-07-15 15:57:12,381 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 15:57:14,901 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 15:57:14,904 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 15:57:16,628 - root - INFO - test_addCustomer : 21 - Executing the testtest_addNewCustomer
+2023-07-15 15:58:59,564 - root - INFO - test_addCustomer : 40 - ************** Testing Customer Label is failed *************
+2023-07-15 16:07:09,360 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 16:07:11,799 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 16:07:11,802 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 16:07:13,531 - root - INFO - test_addCustomer : 21 - Executing the testtest_addNewCustomer
+2023-07-15 16:07:46,668 - root - INFO - test_addCustomer : 34 - *********** Testing Customer Label is passed **************
+2023-07-15 16:20:26,879 - root - INFO - test_nopcommerce_login_page : 16 - Executing the testtest_noplogin
+2023-07-15 16:20:29,182 - root - INFO - test_nopcommerce_login_page : 23 - ************** Verifying login functionality *****************
+2023-07-15 16:20:29,185 - root - INFO - test_nopcommerce_login_page : 26 - ************* Login test is passed ***************
+2023-07-15 16:20:30,655 - root - INFO - test_addCustomer : 21 - Executing the testtest_addNewCustomer
+2023-07-15 16:20:33,248 - root - INFO - test_addCustomer : 29 - Login is Successful
+2023-07-15 16:20:39,086 - root - INFO - test_addCustomer : 36 - *********** Testing Customers Label is passed **************
+2023-07-15 16:20:39,196 - root - INFO - test_addCustomer : 44 - Navigated to Customers Page

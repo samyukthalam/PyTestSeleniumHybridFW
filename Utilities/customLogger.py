@@ -1,8 +1,8 @@
 import logging
-import os
-import sys
-from pathlib import Path
 import logging.config
+import os
+from pathlib import Path
+
 
 class LogGen:
 

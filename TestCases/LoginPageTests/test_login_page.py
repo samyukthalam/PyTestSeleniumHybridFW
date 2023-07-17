@@ -1,15 +1,17 @@
 import inspect
 import os
 from pathlib import Path
-from Utilities.readProperties import ReadConfigFile
+
 from PageObjects.LoginPage import LoginPage
 from Utilities.customLogger import LogGen
+from Utilities.readProperties import ReadConfigFile
+from TestCases.conftest import setup,browser
 
 
 class Test_001_Login:
-    appURL = ReadConfigFile.getApplicationURL()
-    username = ReadConfigFile.getUserName()
-    password = ReadConfigFile.getAPassword()
+    appURL = ReadConfigFile.getApplicationURL("app url section")
+    username = ReadConfigFile.getUserName("app login section")
+    password = ReadConfigFile.getAPassword("app login section")
     logger = LogGen.logGen()
 
     def test_page_title(self, setup):

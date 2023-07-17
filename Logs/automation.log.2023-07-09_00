@@ -1,0 +1,66 @@
+2023-07-08 22:39:49,294 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
+2023-07-08 22:39:50,735 - root - INFO - test_login_page : 20 - Verifying home page title
+2023-07-08 22:39:50,740 - root - INFO - test_login_page : 23 - Home page title test is passed
+2023-07-08 22:39:52,282 - root - INFO - test_login_page : 33 - Executing the testtest_login
+2023-07-08 22:39:54,771 - root - INFO - test_login_page : 40 - Verifying login functionality
+2023-07-08 22:39:54,775 - root - INFO - test_login_page : 43 - Login test is passed
+2023-07-08 22:41:48,162 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
+2023-07-08 22:41:49,829 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
+2023-07-08 22:41:49,833 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
+2023-07-08 22:41:51,602 - root - INFO - test_login_page : 33 - Executing the testtest_login
+2023-07-08 22:41:53,722 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
+2023-07-08 22:41:53,726 - root - INFO - test_login_page : 43 - Login test is passed
+2023-07-08 22:45:59,756 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
+2023-07-08 22:46:01,050 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
+2023-07-08 22:46:01,055 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
+2023-07-08 22:46:02,830 - root - INFO - test_login_page : 33 - Executing the testtest_login
+2023-07-08 22:46:04,869 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
+2023-07-08 22:46:04,872 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
+2023-07-08 22:56:38,141 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
+2023-07-08 22:56:39,531 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
+2023-07-08 22:56:39,534 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
+2023-07-08 22:56:41,283 - root - INFO - test_login_page : 33 - Executing the testtest_login
+2023-07-08 22:56:43,370 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
+2023-07-08 22:56:43,373 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
+2023-07-08 23:09:01,601 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
+2023-07-08 23:09:02,843 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
+2023-07-08 23:09:02,847 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
+2023-07-08 23:09:04,702 - root - INFO - test_login_page : 33 - Executing the testtest_login
+2023-07-08 23:09:06,596 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
+2023-07-08 23:09:06,598 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
+2023-07-08 23:16:58,297 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
+2023-07-08 23:16:59,860 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
+2023-07-08 23:16:59,863 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
+2023-07-08 23:17:02,487 - root - INFO - test_login_page : 33 - Executing the testtest_login
+2023-07-08 23:17:03,883 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
+2023-07-08 23:17:03,884 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
+2023-07-08 23:21:18,284 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
+2023-07-08 23:21:18,287 - root - INFO - test_login_page : 33 - Executing the testtest_login
+2023-07-08 23:21:19,756 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
+2023-07-08 23:21:19,758 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
+2023-07-08 23:21:20,045 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
+2023-07-08 23:21:20,049 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
+2023-07-08 23:21:35,818 - root - INFO - test_login_page : 33 - Executing the testtest_login
+2023-07-08 23:21:35,821 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
+2023-07-08 23:21:37,093 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
+2023-07-08 23:21:37,096 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
+2023-07-08 23:21:37,667 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
+2023-07-08 23:21:37,669 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
+2023-07-08 23:36:03,348 - root - INFO - test_login_page : 33 - Executing the testtest_login
+2023-07-08 23:36:03,348 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
+2023-07-08 23:36:04,438 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
+2023-07-08 23:36:04,443 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
+2023-07-08 23:36:05,132 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
+2023-07-08 23:36:05,135 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
+2023-07-08 23:38:26,921 - root - INFO - test_login_page : 17 - Executing the testtest_page_title
+2023-07-08 23:38:26,924 - root - INFO - test_login_page : 33 - Executing the testtest_login
+2023-07-08 23:38:28,289 - root - INFO - test_login_page : 20 - ****************** Verifying home page title **************
+2023-07-08 23:38:28,291 - root - INFO - test_login_page : 23 - *********** Home page title test is passed **************
+2023-07-08 23:38:28,542 - root - INFO - test_login_page : 40 - ************** Verifying login functionality *****************
+2023-07-08 23:38:28,544 - root - INFO - test_login_page : 43 - ************* Login test is passed ***************
+2023-07-09 00:07:24,463 - root - INFO - test_login_page : 32 - Executing the testtest_login
+2023-07-09 00:07:24,498 - root - INFO - test_login_page : 16 - Executing the testtest_page_title
+2023-07-09 00:07:26,566 - root - INFO - test_login_page : 19 - ****************** Verifying home page title **************
+2023-07-09 00:07:26,569 - root - INFO - test_login_page : 22 - *********** Home page title test is passed **************
+2023-07-09 00:07:27,021 - root - INFO - test_login_page : 39 - ************** Verifying login functionality *****************
+2023-07-09 00:07:27,022 - root - INFO - test_login_page : 42 - ************* Login test is passed ***************

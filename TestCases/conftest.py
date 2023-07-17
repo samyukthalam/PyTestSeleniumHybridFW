@@ -3,11 +3,6 @@ from selenium import webdriver
 
 
 @pytest.fixture
-def browser(request):  # This returns the browser value to setup method
-    return request.config.getoption("--browser")
-
-
-@pytest.fixture
 def setup(browser):
     driver = ""
     if browser == "chrome":
@@ -24,6 +19,11 @@ def setup(browser):
 
 def pytest_addoption(parser):  # Gets value from CLI/hooks
     parser.addoption("--browser")
+
+
+@pytest.fixture
+def browser(request):  # This returns the browser value to setup method
+    return request.config.getoption("--browser")
 
 
 ############## HTML Report - Pytest ##############
